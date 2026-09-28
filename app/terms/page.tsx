@@ -11,7 +11,7 @@ export default function TermsPage() {
         </h1>
         <div className="text-[17px] leading-[1.6] text-[#4D4D4D] space-y-6">
           <p>Last updated: June 2025</p>
-          <p>Welcome to Viksapp. These Terms of Service govern your use of our platform, services, and website.</p>
+          <p>Welcome to ViksApp. These Terms of Service govern your use of our platform, services, and website.</p>
           <h2 className="pt-4 text-[24px] font-bold text-black">1. Acceptance of Terms</h2>
           <p>By accessing or using our services, you agree to be bound by these Terms. If you disagree with any part of the terms, you may not access the service.</p>
           <h2 className="pt-4 text-[24px] font-bold text-black">2. Use of Service</h2>

@@ -3,7 +3,7 @@ import { Providers } from "./providers";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Viksapp",
+  title: "ViksApp",
   description: "WhatsApp analytics dashboard with real-time messaging insights, engagement metrics, and growth tracking.",
   icons: {
     icon: "/assets/logos/viksapp-logo-2.svg",

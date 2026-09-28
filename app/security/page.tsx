@@ -11,7 +11,7 @@ export default function SecurityPage() {
         </h1>
         <div className="text-[17px] leading-[1.6] text-[#4D4D4D] space-y-6">
           <p>Last updated: June 2025</p>
-          <p>At Viksapp, the security of your data is our top priority. We implement industry-leading security measures to ensure your information is protected.</p>
+          <p>At ViksApp, the security of your data is our top priority. We implement industry-leading security measures to ensure your information is protected.</p>
           <h2 className="pt-4 text-[24px] font-bold text-black">1. Data Encryption</h2>
           <p>All data transmitted between your browser and our servers is encrypted using industry-standard TLS. Your data is also encrypted at rest in our secure databases.</p>
           <h2 className="pt-4 text-[24px] font-bold text-black">2. Access Control</h2>

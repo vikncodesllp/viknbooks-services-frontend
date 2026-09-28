@@ -139,7 +139,7 @@
   "templateCreate": {
     "title": "Create Template",
     "setupTemplate": "टेम्पलेट सेटअप",
-    "subtitle": "Whatsapp Business",
+    "subtitle": "WhatsApp Business",
     "cancel": "Cancel",
     "saveChanges": "Save Changes",
     "saving": "Saving...",
@@ -244,7 +244,7 @@
   },
   "whatsappSend": {
     "title": "Send Template",
-    "subtitle": "Whatsapp Business",
+    "subtitle": "WhatsApp Business",
     "schedule": "Schedule",
     "scheduleFuture": "Scheduled time must be in the future",
     "selectTemplate": "Select a template",

@@ -11,7 +11,7 @@ export default function PrivacyPage() {
         </h1>
         <div className="text-[17px] leading-[1.6] text-[#4D4D4D] space-y-6">
           <p>Last updated: June 2025</p>
-          <p>This Privacy Policy describes how Viksapp collects, uses, and discloses your personal information when you use our services.</p>
+          <p>This Privacy Policy describes how ViksApp collects, uses, and discloses your personal information when you use our services.</p>
           <h2 className="pt-4 text-[24px] font-bold text-black">1. Information We Collect</h2>
           <p>We collect information you provide directly to us, such as when you create an account, subscribe to our services, or contact customer support.</p>
           <h2 className="pt-4 text-[24px] font-bold text-black">2. How We Use Your Information</h2>

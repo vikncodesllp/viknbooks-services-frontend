@@ -44,7 +44,7 @@ export const HeaderNavSection = () => {
           <a href="/" className="inline-flex shrink-0 items-center">
             <img
               className="h-8 w-auto sm:h-10"
-              alt="Viksapp logo"
+              alt="ViksASpp logo"
               src="/assets/logos/logo-viksapp.svg"
             />
           </a>
@@ -126,7 +126,7 @@ export const HeaderNavSection = () => {
                   <a href="/" className="inline-flex shrink-0 items-center">
                     <img
                       className="h-8 w-auto sm:h-10"
-                      alt="Viksapp logo"
+                      alt="ViksApp logo"
                       src="/assets/logos/logo-viksapp.svg"
                     />
                   </a>
