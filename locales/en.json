@@ -752,7 +752,7 @@
     "moneyBack": "14-Day Money Back"
   },
   "sidebar": {
-    "vikncodes": "Vikncodes",
+    "vikncodes": "Vikn Codes",
     "whatsappSubtitle": "WhatsApp Modules",
     "platform": "Platform",
     "dashboard": "Dashboard",
@@ -959,8 +959,8 @@
       "startFreeTrial": "Start Free Trial",
       "craftedBy": "Crafted by",
       "brandName": "ViksApp",
-      "companyName": "Vikncodes",
-      "companyLogoAlt": "Vikncodes logo",
+      "companyName": "Vikn Codes",
+      "companyLogoAlt": "Vikn Codes logo",
       "orderPlaced": "Order Placed",
       "promoCard": {
         "brandName": "Velora Fashion.sun",
@@ -1085,7 +1085,7 @@
             "Broadcasting & Retargeting",
             "Template Message Apis",
             "Agent Transfer & Manager Monitoring",
-            "Vikncodes Marketplace Integrations",
+            "Vikn Codes Marketplace Integrations",
             "2400 Messages/min",
             "Shopify & Woocommerce Integrations",
             "Webhooks"
